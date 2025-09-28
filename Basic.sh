@@ -1,4 +1,5 @@
 echo "Hello World"
+echo "Hello World 2"
 # git init
 # git add -A
 # git commit -a -m "Code initialized"
